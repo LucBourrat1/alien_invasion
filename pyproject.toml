@@ -1,0 +1,4 @@
+[project]
+name = "alien_invasion"
+version = "0.1"
+dependencies = ["pygame"]
